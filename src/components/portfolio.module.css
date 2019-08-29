@@ -1,0 +1,10 @@
+.project {
+  display: flex;
+  align-content: center;
+  margin-bottom: 50px;
+}
+
+.infoBox {
+  display: inline-block;
+  padding-left: 30px;
+}

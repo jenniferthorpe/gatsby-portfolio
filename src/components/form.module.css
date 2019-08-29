@@ -1,0 +1,15 @@
+form,
+form * {
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+form {
+  padding-bottom: 100px;
+}
+
+form > h2 {
+  padding: 20px 0px;
+}
