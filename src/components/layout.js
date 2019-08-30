@@ -14,6 +14,9 @@ export default ({ children }) => (
       <Link to="/about/" className={styles.menuBtn}>
         About
       </Link>
+      <Link to="/statistics/" className={styles.menuBtn}>
+        Statistics
+      </Link>
     </div>
     <div className={styles.children}>{children}</div>
   </div>

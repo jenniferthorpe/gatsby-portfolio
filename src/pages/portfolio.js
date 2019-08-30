@@ -16,14 +16,14 @@ const Project = props => (
 export default () => (
     <Layout>
         <h1>My Portfolio</h1>
-        <a href="">
+        <a href="https://picsum.photos/200">
             <Project
                 image="https://picsum.photos/200"
                 name="Project 1"
                 info="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam laoreet porta pretium. Pellentesque quam nisl, iaculis eget facilisis eu, euismod nec mauris. Proin tristique bibendum nisl nec venenatis. Maecenas vitae aliquet urna. Donec id interdum erat, sed commodo mi. Sed risus ipsum, commodo eu dignissim nec, aliquam id enim. Praesent porta, erat a pretium vehicula, mauris mauris porta arcu, id ultrices nunc nisl at felis."
             />
         </a>
-        <a href="">
+        <a href="https://picsum.photos/200">
             <Project
                 image="https://picsum.photos/200"
                 name="Project 2"
